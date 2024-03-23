@@ -287,9 +287,8 @@
   width: 21px;
   height: 21px;
   margin-right: 8px;
-  stroke: var(--color-button-text);
-  mix-blend-mode: difference;
   z-index: 10;
+  
 }
 
 .card__icon-button:hover .main-body {
@@ -447,7 +446,7 @@ dialog::backdrop {
   .floppy_image {
     width: 40px;
     height: 40px;
-    margin-bottom: 8px;
+    
   }
 }
 
