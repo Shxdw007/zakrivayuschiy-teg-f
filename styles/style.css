@@ -370,7 +370,7 @@
 }
 
 .modal-window__floppy_image {
-  fill: var(--accent-color);
+  color: var(--accent-color);
   z-index: 10;
   width: 90px;
   height: 40px;
